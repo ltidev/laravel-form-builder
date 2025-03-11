@@ -11,7 +11,7 @@
     ],
     "require": {
         "php": "^8.0",
-        "rdx/laravelcollective-html": "dev-main",
+        "rdx/laravelcollective-html": "dev-main-l12",
         "illuminate/database": "^10 || ^11 || ^12",
         "illuminate/validation": "^10 || ^11 || ^12"
     },
