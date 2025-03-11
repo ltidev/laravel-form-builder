@@ -11,9 +11,10 @@
     ],
     "require": {
         "php": "^8.0",
-        "rdx/laravelcollective-html": "dev-6.x",
+        "rdx/laravelcollective-html": "6.x-dev",
         "illuminate/database": "^10 || ^11 || ^12",
-        "illuminate/validation": "^10 || ^11 || ^12"
+        "illuminate/validation": "^10 || ^11 || ^12",
+        "laravel/framework": "^12.0"
     },
     "require-dev": {
         "orchestra/testbench": "^8 || ^9 || ^10",
