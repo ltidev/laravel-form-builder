@@ -45,6 +45,12 @@
             "tests/"
         ]
     },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/ltidev/laravelcollective-html"
+        }
+    ],
     "minimum-stability": "dev",
     "prefer-stable": true
 }
